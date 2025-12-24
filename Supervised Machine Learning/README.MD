@@ -100,4 +100,4 @@ Provided actionable guidance for buyers and sellers based on price-driving featu
 
 🧑‍💻 Author
 
-Vijay Kumar Bandaru – Data Scientist & AI Engineer
+Vijay Kumar Bandaru – Machine Learning Engineer & AI Engineer
